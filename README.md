@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me  
 
-**Full Stack Developer** passionate about building valuable web applications.  
+💫 **Full Stack Developer** passionate about building valuable web applications.  
 
 🌍 **Spanish** & **English** speaker.  
 🚀 Always learning new technologies and improving my skills.  
