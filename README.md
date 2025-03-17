@@ -37,3 +37,12 @@ Feel free to contact me and start a conversation 🚀
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITAlonsoRabanal&layout=compact&theme=tokyonight)
 
 
+## 🚀 Projects  
+
+### 1. [Ink3d-ecommerce](https://ink3d-tech-2-0.vercel.app/home) 
+**Description**: Clothing Store Group Project.  
+**Technologies used**: NextJS, Vercel, NestJS, Swagger, Render  
+
+### 2. [**Tech Ecommerce**](https://m4-eccomerce.vercel.app/Landing)
+**Description**: Personal Learning Project .  
+**Technologies used**: NextJS, React, Vercel
