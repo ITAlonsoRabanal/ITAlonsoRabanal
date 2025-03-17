@@ -34,6 +34,6 @@ Feel free to contact me and start a conversation 🚀
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ITAlonsoRabanal&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ignacio-alonso&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITAlonsoRabanal&layout=compact&theme=tokyonight)
 
 
