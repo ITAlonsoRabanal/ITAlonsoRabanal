@@ -32,6 +32,6 @@
  
 Feel free to contact me and start a conversation 🚀  
 
-![GitHub followers](https://img.shields.io/github/followers/ignacio-alonso?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/ignacio-alonso?label=Stars&style=social)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ignacio-alonso&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+
 
