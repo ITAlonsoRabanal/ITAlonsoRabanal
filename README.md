@@ -1,15 +1,14 @@
-### Hi, I'm Ignacio Alonso 👋  
+# Hi, I'm Ignacio Alonso 👋  
 
-### 👨‍💻 About Me  
+## 👨‍💻 About Me  
 
 **Full Stack Developer** passionate about building valuable web applications.  
 
 🌍 **Spanish** & **English** speaker.  
 🚀 Always learning new technologies and improving my skills.  
-🎮 I love **video games**, both playing and exploring how they are built.
+🎮 I love **video games**, both playing and exploring how they are built.  
 
-
-### 🛠 Tech Stack  
+## 🛠 Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -27,9 +26,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-
-### 📫 Contact  
-📧 [nachoalonso273@gmail.com](mailtlo:nachoalonso273@gmail.com)  
+## 📫 Contact  
+📧 [nachoalonso273@gmail.com](mailto:nachoalonso273@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/ignacio-alonso-5680872b4/)  
 
-Feel free to explore my repositories and connect with me! 🚀  
+Feel free to contact me and start a conversation 🚀  
