@@ -4,8 +4,8 @@
 
 💫 **Full Stack Developer** passionate about building valuable web applications.  
 
-🌍 **Spanish** & **English** speaker.  
-🚀 Always learning new technologies and improving my skills.  
+🌎 **Spanish** & **English** speaker.  
+✈️ Always learning new technologies and improving my skills.  
 🎮 I love **video games**, both playing and exploring how they are built.  
 
 ## 🛠 Tech Stack  
@@ -21,13 +21,12 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeORM-FF5733?style=for-the-badge&logo=typeorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ## 📫 Contact  
 📧 [nachoalonso273@gmail.com](mailto:nachoalonso273@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/ignacio-alonso-5680872b4/)  
-
 Feel free to contact me and start a conversation 🚀  
