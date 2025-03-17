@@ -28,5 +28,10 @@
 
 ## 📫 Contact  
 📧 [nachoalonso273@gmail.com](mailto:nachoalonso273@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/ignacio-alonso-5680872b4/)  
+💼 [LinkedIn](https://www.linkedin.com/in/ignacio-alonso-5680872b4/) 
+ 
 Feel free to contact me and start a conversation 🚀  
+
+![GitHub followers](https://img.shields.io/github/followers/ignacio-alonso?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/ignacio-alonso?label=Stars&style=social)
+
