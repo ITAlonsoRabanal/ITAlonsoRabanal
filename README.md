@@ -39,7 +39,7 @@ Feel free to contact me and start a conversation 🚀
 
 ## 🚀 Projects  
 
-### 1. [Ink3d-ecommerce](https://ink3d-tech-2-0.vercel.app/home) 
+### 1. [Ink3d-store](https://ink3d-tech-2-0.vercel.app/home) 
 **Description**: Clothing Store Group Project.  
 **Technologies used**: NextJS, Vercel, NestJS, Swagger, Render  
 
