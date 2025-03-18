@@ -6,7 +6,7 @@
 
 🌎 **Spanish** & **English** speaker.  
 ✈️ Always learning new technologies and improving my skills.  
-🎮 I love **video games**, both playing and exploring how they are built.  
+🎮 I love **video games** and animation.  
 
 ## 🛠 Tech Stack  
 <p align="center">
