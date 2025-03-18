@@ -28,7 +28,7 @@
 
 ## 📫 Contact  
 📧 [nachoalonso273@gmail.com](mailto:nachoalonso273@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/ignacio-alonso-5680872b4/) 
+💼 [See my Linkedin](https://www.linkedin.com/in/ignacio-alonso-5680872b4/) 
  
 Feel free to contact me and start a conversation 🚀  
 
