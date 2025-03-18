@@ -28,9 +28,9 @@
 
 ## 📫 Contact  
 📧 [nachoalonso273@gmail.com](mailto:nachoalonso273@gmail.com)  
-💼 [See my Linkedin](https://www.linkedin.com/in/ignacio-alonso-5680872b4/) 
+💼 [Linkedin Profile](https://www.linkedin.com/in/ignacio-alonso-5680872b4/) 
  
-Feel free to contact me and start a conversation 🚀  
+🗣️ Feel free to contact me and start a conversation   
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ITAlonsoRabanal&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
@@ -41,8 +41,8 @@ Feel free to contact me and start a conversation 🚀
 
 ### 1. [Ink3d Store](https://ink3d-tech-2-0.vercel.app/home) 
 **Description**: Clothing Store Group Project.  
-**Technologies used**: NextJS, Vercel, NestJS, Swagger, Render  
+**Technologies used**: NextJS, Vercel, NestJS, Swagger, Render, GoogleAuth, MercadoPago, WebSocket  
 
 ### 2. [**Tech Ecommerce**](https://m4-eccomerce.vercel.app/Landing)
-**Description**: Personal Learning Project .  
+**Description**: Personal Learning Project.  
 **Technologies used**: NextJS, React, Vercel
