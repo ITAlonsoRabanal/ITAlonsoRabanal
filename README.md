@@ -43,6 +43,10 @@
 **Description**: Clothing Store Group Project.  
 **Technologies used**: NextJS, Vercel, NestJS, Swagger, Render, GoogleAuth, MercadoPago, WebSocket  
 
-### 2. [**Tech Ecommerce**](https://m4-eccomerce.vercel.app/Landing)
+### 2. [**API for e-commerce**](https://m4beecommerce-latest.onrender.com/api)
+**Description**: Personal Learning Project.  
+**Technologies used**: NestJS Swagger UI, Typeorm, Render, JWT, bcrypt, Auth0, Cloudinary
+
+### 3. [**Tech Store**](https://m4-eccomerce.vercel.app/Landing)
 **Description**: Personal Learning Project.  
 **Technologies used**: NextJS, React, Vercel
