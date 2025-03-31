@@ -2,11 +2,11 @@
 
 ## 👨‍💻 About Me  
 
-💫 **Full Stack Developer** passionate about building valuable web applications.  
+🌟 **Full Stack Developer** passionate about building valuable web applications.  
 
 🌎 **Spanish** & **English** speaker.  
 ✈️ Always learning new technologies and improving my skills.  
-🎮 I love **video games** and animation.  
+🎮 I love **video games** and TV Shows.  
 
 ## 🛠 Tech Stack  
 <p align="center">
@@ -26,10 +26,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 📫 Contact  
+## 🚀 Currently Learning
+📡 **AWS** - Exploring cloud computing and deployment solutions.
+
+## 👯‍♂️ Contact  
 📧 [nachoalonso273@gmail.com](mailto:nachoalonso273@gmail.com)  
-💼 [Linkedin Profile](https://www.linkedin.com/in/ignacio-alonso-5680872b4/) 
- 
+💼 [Linkedin Profile](https://www.linkedin.com/in/ignacio-alonso-5680872b4/)  
+
 🗣️ Feel free to contact me and start a conversation   
 
 
@@ -39,7 +42,7 @@
 
 ## 🚀 Projects  
 
-### 1. [Ink3d Store](https://ink3d-tech-2-0.vercel.app/home) 
+### 1. [Ink3d Store](https://ink3d-tech-2-0.vercel.app/home)
 **Description**: Clothing Store Group Project.  
 **Technologies used**: NextJS, Vercel, NestJS, Swagger, Render, GoogleAuth, MercadoPago, WebSocket  
 
@@ -50,3 +53,4 @@
 ### 3. [**Tech Store**](https://m4-eccomerce.vercel.app/Landing)
 **Description**: Personal Learning Project.  
 **Technologies used**: NextJS, React, Vercel
+
