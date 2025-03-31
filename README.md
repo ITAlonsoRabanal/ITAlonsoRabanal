@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-🚀 Currently Learning
+## 🚀 Currently Learning
 
 📡 **AWS** - Exploring cloud computing and deployment solutions.
 
