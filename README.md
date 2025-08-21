@@ -27,9 +27,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 🚀 Currently Learning
+## 🚀 Currently Working On
 
-📡 **AWS** - Exploring cloud computing and deployment solutions.
+💻 **Thaskify – Fullstack Developer** 
+**Project management platform** for planning, collaboration, and execution of company goals
 
 ## 📫 Contact  
 📧 [nachoalonso273@gmail.com](mailto:nachoalonso273@gmail.com)  
