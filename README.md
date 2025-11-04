@@ -29,9 +29,6 @@
 
 ## 🚀 Currently Working On
 
-💻 **Thaskify – Fullstack Developer** 
-**Project management platform** for planning, collaboration, and execution of company goals
-
 ## 📫 Contact  
 📧 [nachoalonso273@gmail.com](mailto:nachoalonso273@gmail.com)  
 💼 [Linkedin Profile](https://www.linkedin.com/in/ignacio-alonso-5680872b4/) 
