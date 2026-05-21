@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 🚀 Currently Working On
-
 ## 📫 Contact  
 📧 [nachoalonso273@gmail.com](mailto:nachoalonso273@gmail.com)  
 💼 [Linkedin Profile](https://www.linkedin.com/in/ignacio-alonso-5680872b4/) 
